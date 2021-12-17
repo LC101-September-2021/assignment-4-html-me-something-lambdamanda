@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+img {
+    max-width: 50%;
+    height: auto;
+  }
+
+body {
+    max-width: 1400px;
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    margin: auto;
+    width: 13em;
+    color: red;
+}
+
+article {
+    padding: 10px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+
